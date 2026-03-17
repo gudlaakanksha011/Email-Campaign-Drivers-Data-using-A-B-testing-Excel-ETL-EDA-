@@ -2,10 +2,12 @@
 A data analysis project using Excel to evaluate the impact of an A/B tested email campaign on driver activity. Features end-to-end ETL via Power Query and Exploratory Data Analysis (EDA) to measure performance lift.
 
 🚀 Project Overview
+
 This project evaluates the effectiveness of a driver engagement email campaign using Microsoft Excel. The goal was to determine if sending targeted emails successfully increased the number of rides completed by drivers over a one-week period.
 
 🛠Tech Stack & Tools
 📂Dataset Description
+
 The analysis was performed on a dataset of 10,000 drivers, divided into two distinct groups:
 Group A (Control): 5,000 drivers who did not receive the email.
 Group B (Test): 5,000 drivers who received the email.
