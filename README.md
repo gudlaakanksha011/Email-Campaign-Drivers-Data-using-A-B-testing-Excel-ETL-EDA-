@@ -26,7 +26,7 @@ Analyzed "Zero-Ride" drivers to measure activation rates.
 🔢 Average Rides: Group B averaged 52.12 rides, while Group A averaged 50.05 rides.
 🎯 The "Middle" Shift: While the control group had a higher individual max (120 rides), the email successfully lifted the performance of the entire test group, resulting in a higher overall average.
 
-**✅ Conclusion**
+✅** Conclusions**
 The email campaign is a statistically successful tool for increasing platform activity. Based on the positive lift in average rides, the recommendation is to scale this campaign to the wider driver base to maximize revenue.
 **Lower Peak Performance**: The "Super Drivers" in the control group (who didn't get an email) actually performed slightly better than the ones in the test group (120 vs. 114).
 **No Impact on Inactivity**: Both groups still have a Min of 0. This tells you that the email failed to "wake up" the drivers who were doing zero rides.
