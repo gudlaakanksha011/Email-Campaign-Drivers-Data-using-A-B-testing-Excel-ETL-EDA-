@@ -5,6 +5,8 @@ A data analysis project using Excel to evaluate the impact of an A/B tested emai
 
 This project evaluates the effectiveness of a driver engagement email campaign using Microsoft Excel. The goal was to determine if sending targeted emails successfully increased the number of rides completed by drivers over a one-week period.
 
+![Email Campaign Drivers Dashboard](Email%20Campaign%20Drivers%20Dashboard.png)
+
 🛠Tech Stack & Tools
 📂Dataset Description
 
